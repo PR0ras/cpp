@@ -10,7 +10,6 @@ int main()
 		cout<<ch;
 		ch =ch+1;
 	}
-	//cout<<sh;
 	cout <<ch<<" ";
 	return 0;
-}
+
