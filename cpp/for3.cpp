@@ -12,4 +12,5 @@ int main()
 	}
 	cout <<ch<<" ";
 	return 0;
+}
 
